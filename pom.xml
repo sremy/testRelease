@@ -40,7 +40,6 @@
 				<configuration>
 					<!-- During release:perform, enable the "production" profile -->
 					<releaseProfiles>production</releaseProfiles>
-					<goals>deploy assembly:single</goals>
 				</configuration>
 			</plugin>
 		</plugins>
