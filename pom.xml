@@ -59,9 +59,9 @@
 	</build>
 	
 	<scm>
-		<connection>scm:svn:https://coconet-svn-fs-01.fs.capgemini.com/svn/repos/trefle/trunk/TrefleIntermediation</connection>
-		<developerConnection>scm:svn:https://coconet-svn-fs-01.fs.capgemini.com/svn/repos/trefle/trunk/TrefleIntermediation</developerConnection>
-		<url>https://coconet-svn-fs-01.fs.capgemini.com/svn/repos/trefle/trunk/TrefleIntermediations</url>
+		<connection>scm:git:https://github.com/sremy/testRelease.git</connection>
+		<developerConnection>scm:git:https://github.com/sremy/testRelease.git</developerConnection>
+		<url>https://github.com/sremy/testRelease.git</url>
 	</scm>
 	
 	<profiles>
