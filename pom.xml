@@ -80,6 +80,12 @@
 				<resource.profile>qual</resource.profile>
 			</properties>
 		</profile>
+		<profile>
+			<id>production</id>
+			<properties>
+				<resource.profile>prod</resource.profile>
+			</properties>
+		</profile>
 	</profiles>
 	
 </project>
