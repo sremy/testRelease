@@ -59,8 +59,8 @@
 	</build>
 	
 	<scm>
-		<connection>scm:svn:https://github.com/sremy/testRelease</connection>
-		<developerConnection>scm:svn:https://github.com/sremy/testRelease</developerConnection>
+		<connection>scm:git:https://github.com/sremy/testRelease</connection>
+		<developerConnection>scm:git:https://github.com/sremy/testRelease</developerConnection>
 		<url>https://github.com/sremy/testRelease</url>
 	</scm>
 	
