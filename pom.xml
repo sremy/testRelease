@@ -3,7 +3,7 @@
 
 	<groupId>me</groupId>
 	<artifactId>testReleaseRoot</artifactId>
-	<version>1.5-SNAPSHOT</version>
+	<version>1.5</version>
 	<packaging>pom</packaging>
 	<name>testReleaseRoot</name>
 	
@@ -12,7 +12,7 @@
 	</modules>
 	
 	<properties>
-	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
 	<dependencies>

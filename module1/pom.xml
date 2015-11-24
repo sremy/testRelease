@@ -3,11 +3,11 @@
 	<parent>
 		<groupId>me</groupId>
 		<artifactId>testReleaseRoot</artifactId>
-		<version>1.5-SNAPSHOT</version>
+		<version>1.5</version>
 	</parent>
 	
 	<artifactId>testReleaseModule1</artifactId>
-	<version>1.5-SNAPSHOT</version>
+	<version>1.5.1</version>
 	<packaging>jar</packaging>
 	
 	<name>testReleaseModule1</name>
