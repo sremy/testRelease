@@ -3,7 +3,7 @@
 
 	<groupId>me</groupId>
 	<artifactId>testReleaseRoot</artifactId>
-	<version>1.7-SNAPSHOT</version>
+	<version>1.7.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>testReleaseRoot</name>
 	
