@@ -3,7 +3,7 @@
 
 	<groupId>me</groupId>
 	<artifactId>testReleaseRoot</artifactId>
-	<version>1.7.2-SNAPSHOT</version>
+	<version>1.7.2</version>
 	<packaging>pom</packaging>
 	<name>testReleaseRoot</name>
 	
@@ -55,7 +55,7 @@
 		<connection>scm:git:https://github.com/sremy/testRelease</connection>
 		<developerConnection>scm:git:https://github.com/sremy/testRelease</developerConnection>
 		<url>https://github.com/sremy/testRelease</url>
-		<tag>HEAD</tag>
+		<tag>testReleaseRoot-1.7.2</tag>
 	</scm>
 	
 	<profiles>
